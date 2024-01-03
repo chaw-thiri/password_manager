@@ -41,4 +41,3 @@ Labels, Entries, Buttons, Canvas
 ## Author
 [Chaw Thiri San](chaw.compare)
 
-Feel free to customize, modify, or improve upon this script according to your needs.
